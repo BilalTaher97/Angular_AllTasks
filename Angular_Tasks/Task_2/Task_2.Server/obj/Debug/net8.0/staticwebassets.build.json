@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "uvlC1d2r3eBH/Qc8U68b6FIUUzm6xAcvTHOMf3KL9mc=",
+  "Source": "Task_2.Server",
+  "BasePath": "_content/Task_2.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Tasks\\Task_2\\task_2.client\\task_2.client.esproj",
+      "Version": 2,
+      "Source": "task_2.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

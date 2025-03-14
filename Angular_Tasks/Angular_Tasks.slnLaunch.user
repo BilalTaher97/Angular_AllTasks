@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Task_2\\Task_2.Server\\Task_2.Server.csproj",
+        "Action": "Start",
+        "DebugTarget": "https"
+      },
+      {
+        "Path": "Task_2\\task_2.client\\task_2.client.esproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]

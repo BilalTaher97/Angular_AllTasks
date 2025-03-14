@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:56412",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Tasks\\Task_2\\Task_2.Server\\..\\task_2.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
