@@ -1,12 +1,71 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Task2\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{108E1DC7-2FE0-441B-9CE5-F15E30164C6D}|angular_task2.client\\angular_task2.client.esproj|c:\\users\\orange\\source\\repos\\angular_alltasks\\angular_task2\\angular_task2.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{108E1DC7-2FE0-441B-9CE5-F15E30164C6D}|angular_task2.client\\angular_task2.client.esproj|solutionrelative:angular_task2.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108E1DC7-2FE0-441B-9CE5-F15E30164C6D}|angular_task2.client\\angular_task2.client.esproj|c:\\users\\orange\\source\\repos\\angular_alltasks\\angular_task2\\angular_task2.client\\src\\app\\ser-category.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{108E1DC7-2FE0-441B-9CE5-F15E30164C6D}|angular_task2.client\\angular_task2.client.esproj|solutionrelative:angular_task2.client\\src\\app\\ser-category.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{108E1DC7-2FE0-441B-9CE5-F15E30164C6D}|angular_task2.client\\angular_task2.client.esproj|c:\\users\\orange\\source\\repos\\angular_alltasks\\angular_task2\\angular_task2.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{108E1DC7-2FE0-441B-9CE5-F15E30164C6D}|angular_task2.client\\angular_task2.client.esproj|solutionrelative:angular_task2.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ser-category.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Task2\\angular_task2.client\\src\\app\\ser-category.service.ts",
+              "RelativeDocumentMoniker": "angular_task2.client\\src\\app\\ser-category.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Task2\\angular_task2.client\\src\\app\\ser-category.service.ts",
+              "RelativeToolTip": "angular_task2.client\\src\\app\\ser-category.service.ts",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB4AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T22:52:50.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Task2\\angular_task2.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "angular_task2.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Task2\\angular_task2.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "angular_task2.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T22:51:16.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Task2\\angular_task2.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "angular_task2.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Task2\\angular_task2.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "angular_task2.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-16T22:48:06.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

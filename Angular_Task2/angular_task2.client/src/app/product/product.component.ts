@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import { SerCategoryService } from '../ser-category.service';
 import { ActivatedRoute } from '@angular/router';
-
+import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 @Component({
   selector: 'app-product',
   templateUrl: './product.component.html',
@@ -14,7 +14,7 @@ export class ProductComponent {
   productByID: any;
   ID!: number;
 
-  constructor(private _ser: SerCategoryService, private _Param: ActivatedRoute) { }
+  constructor(private _ser: SerCategoryService, private frm: FormBuilder, private _Param: ActivatedRoute) { }
 
   ngOnInit() {
 
@@ -45,6 +45,9 @@ export class ProductComponent {
       this.productByID = this.product.filter((p: any) => p.categoryId == this.ID);
     }
   }
+
+
+
 }
 
 
