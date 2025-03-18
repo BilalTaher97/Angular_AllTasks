@@ -11,6 +11,11 @@ import { ProductDetailsComponent } from './product-details/product-details.compo
 import { RegComponent } from './reg/reg.component';
 import { FormsModule } from '@angular/forms';
 import { LoginComponent } from './login/login.component';
+import { DashboardComponent } from './Admin/dashboard/dashboard.component';
+import { GetCategoryComponent } from './Admin/get-category/get-category.component';
+import { GetProductComponent } from './Admin/get-product/get-product.component';
+import { AddCategoryComponent } from './Admin/add-category/add-category.component';
+import { AddProductComponent } from './Admin/add-product/add-product.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +25,12 @@ import { LoginComponent } from './login/login.component';
     NavbarComponent,
     ProductDetailsComponent,
     RegComponent,
-    LoginComponent
+    LoginComponent,
+    DashboardComponent,
+    GetCategoryComponent,
+    GetProductComponent,
+    AddCategoryComponent,
+    AddProductComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,
