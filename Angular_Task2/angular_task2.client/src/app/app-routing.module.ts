@@ -1,4 +1,4 @@
-import { NgModule } from '@angular/core';
+import { Component, NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 import { CategoryComponent } from './category/category.component';
 import { ProductComponent } from './product/product.component';
@@ -10,6 +10,8 @@ import { GetCategoryComponent } from './Admin/get-category/get-category.componen
 import { GetProductComponent } from './Admin/get-product/get-product.component';
 import { AddCategoryComponent } from './Admin/add-category/add-category.component';
 import { AddProductComponent } from './Admin/add-product/add-product.component';
+import { EditCategoryComponent } from './Admin/edit-category/edit-category.component';
+import { EditProductComponent } from './Admin/edit-product/edit-product.component';
 
 const routes: Routes = [
   { path: "Category", component: CategoryComponent },
@@ -25,7 +27,9 @@ const routes: Routes = [
       { path: "ShowAllCategory", component: GetCategoryComponent },
       { path: "ShowAllProduct", component: GetProductComponent },
       { path: "AddProduct", component: AddProductComponent },
-      { path: "AddCategory", component: AddCategoryComponent }
+      { path: "AddCategory", component: AddCategoryComponent },
+      { path: "EditCategory/:id", component: EditCategoryComponent },
+      { path: "EditProduct/:id", component: EditProductComponent }
 
   ] }
 ];

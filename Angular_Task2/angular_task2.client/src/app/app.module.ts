@@ -16,6 +16,8 @@ import { GetCategoryComponent } from './Admin/get-category/get-category.componen
 import { GetProductComponent } from './Admin/get-product/get-product.component';
 import { AddCategoryComponent } from './Admin/add-category/add-category.component';
 import { AddProductComponent } from './Admin/add-product/add-product.component';
+import { EditCategoryComponent } from './Admin/edit-category/edit-category.component';
+import { EditProductComponent } from './Admin/edit-product/edit-product.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +32,9 @@ import { AddProductComponent } from './Admin/add-product/add-product.component';
     GetCategoryComponent,
     GetProductComponent,
     AddCategoryComponent,
-    AddProductComponent
+    AddProductComponent,
+    EditCategoryComponent,
+    EditProductComponent
   ],
   imports: [
     BrowserModule, HttpClientModule,
