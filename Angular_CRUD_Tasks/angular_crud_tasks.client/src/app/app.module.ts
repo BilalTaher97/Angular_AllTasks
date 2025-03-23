@@ -1,0 +1,30 @@
+import { HttpClientModule } from '@angular/common/http';
+import { NgModule } from '@angular/core';
+import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
+import { AppRoutingModule } from './app-routing.module';
+import { AppComponent } from './app.component';
+import { GetAllVoucherComponent } from './Admin/get-all-voucher/get-all-voucher.component';
+import { DashboardComponent } from './Admin/dashboard/dashboard.component';
+import { NavbarComponent } from './navbar/navbar.component';
+import { AddVoucherComponent } from './Admin/add-voucher/add-voucher.component';
+import { EditVoucherComponent } from './Admin/edit-voucher/edit-voucher.component';
+
+@NgModule({
+  declarations: [
+    AppComponent,
+    GetAllVoucherComponent,
+    DashboardComponent,
+    NavbarComponent,
+    AddVoucherComponent,
+    EditVoucherComponent
+  ],
+  imports: [
+    BrowserModule, HttpClientModule,
+    AppRoutingModule,
+    FormsModule
+  ],
+  providers: [],
+  bootstrap: [AppComponent]
+})
+export class AppModule { }

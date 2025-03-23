@@ -1,5 +1,6 @@
 import { Component } from '@angular/core';
 import { SerCategoryService } from '../ser-category.service';
+import { Router } from '@angular/router';
 
 @Component({
   selector: 'app-login',
@@ -9,7 +10,7 @@ import { SerCategoryService } from '../ser-category.service';
 export class LoginComponent {
 
 
-  constructor(private _ser: SerCategoryService) { }
+  constructor(private _ser: SerCategoryService, private _rout: Router) { }
 
 
   ngOnInit() {
@@ -26,6 +27,8 @@ export class LoginComponent {
       console.log('The User is : ' + User);
       if (User) {
         alert("Login Successfully.");
+        console.log('User ID:', User.id);
+        this._rout.navigate(['/Dashboard/Profile', User.id]);
       } else {
 
         alert("Invalid LogIn.");

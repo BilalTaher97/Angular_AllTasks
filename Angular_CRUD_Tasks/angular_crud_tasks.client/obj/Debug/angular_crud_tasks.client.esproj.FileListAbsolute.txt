@@ -1,0 +1,1 @@
+C:\Users\Orange\source\repos\Angular_CRUD_Tasks\angular_crud_tasks.client\obj\Debug\angular_crud_tasks.client.esproj.CoreCompileInputs.cache

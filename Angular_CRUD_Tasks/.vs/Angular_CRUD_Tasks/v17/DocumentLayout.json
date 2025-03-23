@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\app\\admin\\get-all-voucher\\get-all-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\app\\admin\\get-all-voucher\\get-all-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\all-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\all-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\app\\admin\\get-all-voucher\\get-all-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\app\\admin\\get-all-voucher\\get-all-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\app\\admin\\edit-voucher\\edit-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\app\\admin\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\app\\admin\\add-voucher\\add-voucher.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_crud_tasks\\angular_crud_tasks.client\\src\\app\\admin\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F6C2FD1-C020-45EF-BC55-5FF2F7743848}|angular_crud_tasks.client\\angular_crud_tasks.client.esproj|solutionrelative:angular_crud_tasks.client\\src\\app\\admin\\add-voucher\\add-voucher.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "get-all-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.ts",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.ts",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.ts",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAwCcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T22:13:38.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:53:32.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "get-all-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.html",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.html",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\app\\Admin\\get-all-voucher\\get-all-voucher.component.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwBcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:52:50Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "all-service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\all-service.service.ts",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\all-service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\all-service.service.ts",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\all-service.service.ts",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:43:30.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "edit-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.ts",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAwCkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:43:14.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "edit-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\app\\Admin\\edit-voucher\\edit-voucher.component.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:40:05.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "add-voucher.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-23T21:42:48.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "add-voucher.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "RelativeDocumentMoniker": "angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "RelativeToolTip": "angular_crud_tasks.client\\src\\app\\Admin\\add-voucher\\add-voucher.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-23T21:39:57.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@Angular_CRUD_Tasks.Server_HostAddress = http://localhost:5187
+
+GET {{Angular_CRUD_Tasks.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -18,6 +18,8 @@ import { AddCategoryComponent } from './Admin/add-category/add-category.componen
 import { AddProductComponent } from './Admin/add-product/add-product.component';
 import { EditCategoryComponent } from './Admin/edit-category/edit-category.component';
 import { EditProductComponent } from './Admin/edit-product/edit-product.component';
+import { ProfileComponent } from './Admin/profile/profile.component';
+
 
 @NgModule({
   declarations: [
@@ -34,7 +36,9 @@ import { EditProductComponent } from './Admin/edit-product/edit-product.componen
     AddCategoryComponent,
     AddProductComponent,
     EditCategoryComponent,
-    EditProductComponent
+    EditProductComponent,
+    ProfileComponent,
+
   ],
   imports: [
     BrowserModule, HttpClientModule,

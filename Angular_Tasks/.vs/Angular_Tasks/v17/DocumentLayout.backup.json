@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Tasks\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68712C9E-9329-4AE2-86B7-7FBB3CA52FEA}|angular_tasks.client\\angular_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_alltasks\\angular_tasks\\angular_tasks.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68712C9E-9329-4AE2-86B7-7FBB3CA52FEA}|angular_tasks.client\\angular_tasks.client.esproj|solutionrelative:angular_tasks.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68712C9E-9329-4AE2-86B7-7FBB3CA52FEA}|angular_tasks.client\\angular_tasks.client.esproj|c:\\users\\orange\\source\\repos\\angular_alltasks\\angular_tasks\\angular_tasks.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68712C9E-9329-4AE2-86B7-7FBB3CA52FEA}|angular_tasks.client\\angular_tasks.client.esproj|solutionrelative:angular_tasks.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Tasks\\angular_tasks.client\\src\\index.html",
+              "RelativeDocumentMoniker": "angular_tasks.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Tasks\\angular_tasks.client\\src\\index.html",
+              "RelativeToolTip": "angular_tasks.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T18:39:11.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Tasks\\angular_tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "angular_tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_Tasks\\angular_tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "angular_tasks.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-13T18:39:05.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
