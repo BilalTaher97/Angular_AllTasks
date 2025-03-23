@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 import { HttpClientModule } from '@angular/common/http';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
@@ -22,34 +20,33 @@ import { EditProductComponent } from './Admin/edit-product/edit-product.componen
 import { ProfileComponent } from './Admin/profile/profile.component';
 
 
+
 @NgModule({
-  declarations: [
-    AppComponent,
-    CategoryComponent,
-    ProductComponent,
-    NavbarComponent,
-    ProductDetailsComponent,
-    RegComponent,
-    LoginComponent,
-    DashboardComponent,
-    GetCategoryComponent,
-    GetProductComponent,
-    AddCategoryComponent,
-    AddProductComponent,
-    EditCategoryComponent,
-    EditProductComponent,
-    ProfileComponent,
+    declarations: [
+        AppComponent,
+        CategoryComponent,
+        ProductComponent,
+        NavbarComponent,
+        ProductDetailsComponent,
+        RegComponent,
+        LoginComponent,
+        DashboardComponent,
+        GetCategoryComponent,
+        GetProductComponent,
+        AddCategoryComponent,
+        AddProductComponent,
+        EditCategoryComponent,
+        EditProductComponent,
+        ProfileComponent
+    ],
+    imports: [
+        BrowserModule, HttpClientModule,
+        AppRoutingModule,
+        FormsModule
 
-  ],
-  imports: [
-    BrowserModule, HttpClientModule,
-    AppRoutingModule,
-    FormsModule
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+    ],
+    providers: [],
+    bootstrap: [AppComponent]
 })
-export class AppModule { }
-=======
-
->>>>>>> 7d1e803c11d45452ad0a3cb301572748647b6faf
+export class AppModule {
+}

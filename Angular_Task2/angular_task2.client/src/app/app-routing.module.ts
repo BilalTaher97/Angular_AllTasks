@@ -32,7 +32,10 @@ const routes: Routes = [
       { path: "EditCategory/:id", component: EditCategoryComponent },
       { path: "EditProduct/:id", component: EditProductComponent },
       { path: "Profile/:id", component: ProfileComponent }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7d1e803c11d45452ad0a3cb301572748647b6faf
   ] }
 ];
 
