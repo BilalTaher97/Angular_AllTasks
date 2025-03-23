@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "CDZBvk7AtrFhg9ww9gPmwDAsPgGMoOCAFiB7Fm2hTGk=",
+  "Hash": "ZGkgUDXh4MUkgtVBwOCrcqoYIrhtd6Rd+YXqQcSIDYg=",
   "Source": "Angular_CRUD_Tasks.Server",
   "BasePath": "_content/Angular_CRUD_Tasks.Server",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\angular_crud_tasks.client.esproj",
+      "Identity": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_CRUD_Tasks\\angular_crud_tasks.client\\angular_crud_tasks.client.esproj",
       "Version": 2,
       "Source": "angular_crud_tasks.client",
       "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",

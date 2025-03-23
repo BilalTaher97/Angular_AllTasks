@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:49822",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\source\\repos\\Angular_CRUD_Tasks\\Angular_CRUD_Tasks.Server\\..\\angular_crud_tasks.client",
+"WorkingDirectory": "C:\\Users\\Orange\\source\\repos\\Angular_AllTasks\\Angular_CRUD_Tasks\\Angular_CRUD_Tasks.Server\\..\\angular_crud_tasks.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }
